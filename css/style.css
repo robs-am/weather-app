@@ -2,3 +2,19 @@
     margin: 0;
     padding: 0;
     }
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    box-sizing: border-box;
+    flex-direction: column;
+    border: solid 0.2em;
+}
+
+.search {
+    margin: 0.8em;
+}
+
+
+    

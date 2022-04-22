@@ -10,26 +10,28 @@ body {
     justify-content:center;
     box-sizing: border-box;
     flex-direction: column;
-    height: 60vh;
-    background-image: url(/images/rio_background.jpg);
+    height: 100vh;
+    background-image: url('https://source.unsplash.com/1600x900/?nature');
     background-size: cover;
     
     
+    
 }
 
-.search {
+/* .search {
     margin: 0.6em;
-}
+} */
 
 .searchbar {
     border: none;
-    background-color:#e7e2ca;
+    background-color:#5c626c;
     resize: none;
     outline: none;
 }
 
 .card {
     background: #eaeaea;
+    opacity: 0.8;
     padding: 2em;
     border-radius: 30px;
     width: 100%;
@@ -38,8 +40,19 @@ body {
 }
 
 h1.temp {
-    padding-left: 3em;
-    padding-top: 0.5em;
+    padding-top: 0.em;
+    padding-bottom: 0.6em;
 
+}
+
+h2.city {
+    padding: 1em;
+}
+
+.weather {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
 }
     

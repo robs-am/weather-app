@@ -10,11 +10,22 @@ body {
     justify-content:center;
     box-sizing: border-box;
     flex-direction: column;
-    height: 100vh;
+    height: 60vh;
+    background-image: url(/images/rio_background.jpg);
+    background-size: cover;
+    
+    
 }
 
 .search {
     margin: 0.6em;
+}
+
+.searchbar {
+    border: none;
+    background-color:#e7e2ca;
+    resize: none;
+    outline: none;
 }
 
 .card {

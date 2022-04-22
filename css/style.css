@@ -35,7 +35,8 @@ body {
     margin-bottom: 1.5em;
     color: white;
     font-family: inherit;
-    font-size: 120%;
+    font-size: 110%;
+    text-align:justify;
     width: calc(100% - 60px);
 }
 
@@ -43,8 +44,8 @@ button {
     height: 2.5em;
     width: 2.5em;
     border-radius: 45%;
-    height: 40px;
-    width: 40px;
+    height: 37px;
+    width: 37px;
     background-color:#83878c;
     color: white;
     margin-left: 0.6em;

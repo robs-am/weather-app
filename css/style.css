@@ -14,6 +14,7 @@ body {
     height: 100vh;
     background-image: url('https://source.unsplash.com/1600x900/?landscapes');
     background-size: cover;
+    font-size: 100%;
     
     
     
@@ -21,15 +22,17 @@ body {
 
 .search {
     padding-left: em;
+    
 }
 
 .searchbar {
     border: none;
+    -webkit-border-radius: 1em;
+       
     background-color:#3b3c3e;
     outline: none;
     padding: 0.2em;
     margin-bottom: 1.5em;
-    
     color: white;
     font-family: inherit;
     font-size: 120%;
@@ -71,6 +74,9 @@ h1.temp {
     padding-right: 0.6em;
     font-size: 5em;
     text-align: center;
+    text-shadow: 0 2px 3px rgba(255, 255, 255, 0.3), 0 -1px 2px rgba(0, 0, 0, 0.2);
+    color: 
+    #525356;
 
 }
 

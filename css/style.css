@@ -81,9 +81,10 @@ h1.temp {
 
 }
 
-h4.city {
-    margin-bottom:;
-    padding-right: ;
+h1.city {
+   
+   font-size: 1.5em;
+    text-align: center;
 }
 
 .weather .weather__card {

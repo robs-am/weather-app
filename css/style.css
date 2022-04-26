@@ -13,6 +13,7 @@ body {
     flex-direction: column;
     height: 100vh;
     background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    /* background-image: url(/images/magicpattern-svg-chart-1650939977557.svg); */
     background-size: cover;
     font-size: 100%;
     
@@ -20,17 +21,14 @@ body {
     
 }
 
-.search {
-    padding-left: em;
-    
-}
 
 .searchbar {
     border: none;
     -webkit-border-radius: 1em;
     text-align: center;
     
-    background-color:#3b3c3e;
+    background-color:#b8bac0;
+    box-shadow: 0 2px 3px rgba(255, 255, 255, 0.3), 0 -1px 2px rgba(0, 0, 0, 0.2); ;
     outline: none;
     padding: 0.2em;
     margin-bottom: 1.5em;
@@ -47,7 +45,7 @@ button {
     border-radius: 45%;
     height: 37px;
     width: 37px;
-    background-color:#83878c;
+    background-color:#64676a;
     color: white;
     margin-left: 0.6em;
 
@@ -61,31 +59,31 @@ button:hover {
 
 .card {
     
-    background: #c8c8c8;
+    
+    background-color: #bebfc8f1;
     padding: 2em;
-    color:#3f3f3ff1;
-    opacity: 0.8;
+    color:#bacad4f1;
+    opacity: 0.9;
     
     border-radius: 30px;
     width: 100%;
     
-    max-width: 300px;
+    max-width: 400px;
     margin: 1em;
 }
 
 h1.temp {
-    margin-top:0.2em ;
+    margin-top:0.3em ;
     font-size: 5em;
     text-align: center;
     text-shadow: 0 2px 3px rgba(255, 255, 255, 0.3), 0 -1px 2px rgba(0, 0, 0, 0.2);
-    color: 
-    #525356;
+    color: #323131;
 
 }
 
 h1.city {
-    margin-top: 0.3em;
-    font-size: 1.6em;
+    /* margin-top: 0.2em; */
+    font-size: 1.5em;
     text-align: center;
     text-shadow: 0 2px 3px rgba(255, 255, 255, 0.3), 0 -1px 2px rgba(0, 0, 0, 0.2);
     color: 
@@ -101,27 +99,35 @@ h1.city {
 
 .description {
     text-transform: capitalize;
-    margin-left: 2px;
+    
+    
     
 }
     
 .flex {
     display: flex;
     align-items: center;
-   
     text-transform: capitalize;
-    font-size:larger
+    font-size:larger;
+    flex-direction: column;
+    color: #696969
 }
 
-.weather .loading {
+.weather__card .loading {
     visibility: hidden;
     max-height: 20px;
     position: relative;
 }
 
-.weather .loading::after {
+.weather__card .loading::after {
     visibility: visible;
     content: "Carregando...";
     color: white;
     position: absolute;
+}
+
+@media only screen and (max-width: 600px) {
+    .card {
+        max-width: 250px;
+    }
 }

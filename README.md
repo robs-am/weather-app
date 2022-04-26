@@ -38,6 +38,7 @@
 <br><br>
 
 <p align="center"><strong>Desktop</strong></p>
+
 ![127 - Full - Generic Laptop - 2022-04-26 at 4 02 03 PM](https://user-images.githubusercontent.com/102549776/165373204-08918046-11d6-461b-bee6-f8bd15a9006b.jpg)</p>
 
 

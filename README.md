@@ -1,5 +1,7 @@
 <h1 align="center">🌩️ Weather App</h1>
 <p align="center">A Weather App using HTML5, CCS3, JavaScript and API</p>
+<p align="center">https://weather-app-robs.netlify.app/</p>
+
 
 <p align="center">
  <a href="#about">About</a> •
@@ -19,7 +21,7 @@
 <p align="center">This was my first attempt learning JavaScript while doing a project. I was able to learn about:</p>
 
  <p align="center"><strong>CSS:</strong></p>
-➡️ variety of styles of the text shadow attribute to do a bevel effect on the temperature.<br>
+➡️ Variety of styles of the text shadow attribute to do a  slightly bevel effect on the temperature.<br>
 ➡️ Use of source landscape images of Unsplash website to generate random background images as you reload the page.<br><br>
 
  <p align="center"><strong>JavaScript:</strong></p>
@@ -47,10 +49,15 @@
 
 
 
-<h2 align="center">How it works</h2>
-
-
 <h2 align="center">Tech Stack</h2>
 
+<strong>Website:</strong><br><br>
 
-<h2 align="center">Author</h2>
+HTML5, CSS3, JavaScript<br>
+Editor: https://code.visualstudio.com/<br>
+https://react-icons.github.io/react-icons/<br>
+API: https://openweathermap.org/api<br>
+Text effects: https://medialoot.com/blog/quick-tip-how-to-create-css-text-effects-using-only-the-text-shadow-attribu/
+
+
+

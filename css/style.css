@@ -130,4 +130,8 @@ h1.city {
     .card {
         max-width: 250px;
     }
+
+    .body {
+        background-size: auto;
+    }
 }

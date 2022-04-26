@@ -30,14 +30,15 @@
 
 <h2 align="center">Layout</h2>
 
-<strong>Mobile</strong>
+<p align="center"><strong>Mobile</strong></p>
 
 ![127 - Full - iPhone X - 2022-04-26 at 4 02 03 PM](https://user-images.githubusercontent.com/102549776/165373361-60927482-5a10-42bf-ae87-440c7078e95e.jpg)
 
 
-<br><r>
-<strong>Desktop</strong>
-![127 - Full - Generic Laptop - 2022-04-26 at 4 02 03 PM](https://user-images.githubusercontent.com/102549776/165373204-08918046-11d6-461b-bee6-f8bd15a9006b.jpg)
+<br><br>
+
+<p align="center"><strong>Desktop</strong></p>
+![127 - Full - Generic Laptop - 2022-04-26 at 4 02 03 PM](https://user-images.githubusercontent.com/102549776/165373204-08918046-11d6-461b-bee6-f8bd15a9006b.jpg)</p>
 
 
 

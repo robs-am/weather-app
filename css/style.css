@@ -101,6 +101,7 @@ h1.city {
 
 .description {
     text-transform: capitalize;
+    margin-left: 2px;
     
 }
     
@@ -110,4 +111,17 @@ h1.city {
    
     text-transform: capitalize;
     font-size:larger
+}
+
+.weather .loading {
+    visibility: hidden;
+    max-height: 20px;
+    position: relative;
+}
+
+.weather .loading::after {
+    visibility: visible;
+    content: "Carregando...";
+    color: white;
+    position: absolute;
 }

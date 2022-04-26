@@ -57,6 +57,7 @@ Editor: https://code.visualstudio.com/<br>
 React Icons: https://react-icons.github.io/react-icons/<br>
 API: https://openweathermap.org/api<br>
 Text effects: https://medialoot.com/blog/quick-tip-how-to-create-css-text-effects-using-only-the-text-shadow-attribu/
+Background: https://unsplash.com/s/photos/source
 
 
 

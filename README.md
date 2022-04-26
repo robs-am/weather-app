@@ -56,7 +56,7 @@ HTML5, CSS3, JavaScript<br>
 Editor: https://code.visualstudio.com/<br>
 React Icons: https://react-icons.github.io/react-icons/<br>
 API: https://openweathermap.org/api<br>
-Text effects: https://medialoot.com/blog/quick-tip-how-to-create-css-text-effects-using-only-the-text-shadow-attribu/
+Text effects: https://medialoot.com/blog/quick-tip-how-to-create-css-text-effects-using-only-the-text-shadow-attribu/<br>
 Background: https://unsplash.com/s/photos/source
 
 

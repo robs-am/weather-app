@@ -10,6 +10,9 @@
  
 </p>
 
+![weather_final (1)](https://user-images.githubusercontent.com/102549776/165374678-90cb7c87-d59a-4685-ab57-8e0005d199ce.gif)
+
+
 
 <h2 align="center">About</h2>
 

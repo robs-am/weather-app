@@ -12,7 +12,7 @@ body {
     box-sizing: border-box;
     flex-direction: column;
     height: 100vh;
-    background-image: url('https://source.unsplash.com/1600x900/?landscapes');
+    background-image: url('https://source.unsplash.com/1600x900/?forecast');
     background-size: cover;
     font-size: 100%;
     
@@ -28,7 +28,8 @@ body {
 .searchbar {
     border: none;
     -webkit-border-radius: 1em;
-       
+    text-align: center;
+    
     background-color:#3b3c3e;
     outline: none;
     padding: 0.2em;
@@ -72,7 +73,7 @@ button:hover {
 }
 
 h1.temp {
-    padding-right: 0.6em;
+    
     font-size: 5em;
     text-align: center;
     text-shadow: 0 2px 3px rgba(255, 255, 255, 0.3), 0 -1px 2px rgba(0, 0, 0, 0.2);
@@ -82,15 +83,30 @@ h1.temp {
 }
 
 h1.city {
-   
-   font-size: 1.5em;
+    margin-top: 0.7em;
+    font-size: 2em;
     text-align: center;
+    text-shadow: 0 2px 3px rgba(255, 255, 255, 0.3), 0 -1px 2px rgba(0, 0, 0, 0.2);
+    color: 
+    #525356;
 }
 
 .weather .weather__card {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    flex-direction: row;
+    justify-content:end;
+    flex-direction: column;
+}
+
+.description {
+    text-transform: capitalize;
+    
 }
     
+.flex {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-transform: capitalize;
+    font-size:larger
+}
